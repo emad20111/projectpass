@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/User.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/PasswordManager.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/PasswordEntry.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/DBconnection.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/Operation.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/PasswordGenerator.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/CryptoUtils.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/GUI/Login.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/GUI/Main.java</file>
+            <file>file:/E:/الجامعة/OOP/projectpass/ProjectPasswordManager/src/Classes/BaseEntity.java</file>
+        </group>
+    </open-files>
+</project-private>
